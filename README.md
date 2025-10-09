@@ -36,6 +36,7 @@
 | **ClashX** | 🔴 停更 | ❌ | ✅ | ❌ | ❌ | ❌ | - | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
 | **Clash for Android** | 🔴 停更 | ❌ | ❌ | ✅ | ❌ | ❌ | - | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
 
+
 ---
 
 ## 🚀 活跃更新客户端推荐
