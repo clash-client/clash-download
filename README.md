@@ -10,7 +10,7 @@
 
 | 机场名称 | 特点与亮点 | 注册入口 |
 |-----------|-------------|-----------|
-| **扬帆云** | [🚀 月付 15 元 · 100GB大流量包 · 高速稳定 · 多端支持 · 专业团队维护](https://yftg1.net/register?code=B3wIZGxR) | **[🔥 推荐注册](https://yftg1.net/register?code=B3wIZGxR)** |
+| **扬帆云** | [🚀 月付 15 元 · 100GB大流量包 · 高速稳定 · 多端支持 · 专业团队维护](https://yawtt.net/register?code=B3wIZGxR) | **[🔥 推荐注册](https://yawtt.net/register?code=B3wIZGxR)** |
 
 > ⚠️ **温馨提示**：以上机场长期稳定运营，均支持 **Clash / V2Ray / Shadowrocket** 等客户端。  
 > 🧭 **建议：** 注册后复制订阅链接导入客户端，即可一键使用。
