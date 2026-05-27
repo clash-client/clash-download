@@ -21,19 +21,19 @@
 
 | 客户端 | 状态 | Windows | macOS | 安卓 | iOS | 鸿蒙 | 仓库 | 教程 | 订阅节点 |
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **FlClash** | 🟢 活跃 | ✅ | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **Clash Verge Rev** | 🟢 活跃 | ✅ | ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **ClashMi** | 🟢 活跃 | ✅ | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/KaringX/clashmi/releases) | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **Hiddify Next** | 🟢 活跃 | ✅ | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/hiddify/hiddify-app/releases) | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **Mihomo Party** | 🟢 活跃 | ✅ | ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/mihomo-party-org/mihomo-party) | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **Clash Meta for Android** | 🟢 活跃 | ❌ | ❌ | ✅ | ❌ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **Karing** | 🟢 活跃 | ✅ | ❌ | ✅ | ❌ | ❌ | [官方](https://github.com/KaringX/karing/releases) | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **Clash Nyanpasu** | 🟢 活跃 | ✅ | ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **ClashBox（鸿蒙）** | 🟢 活跃 | ❌ | ❌ | ❌ | ❌ | ✅ | [官方](https://github.com/xiaobaigroup/ClashBox/releases) | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **Clash Verge** | 🔴 停更 | ✅ | ✅ | ❌ | ❌ | ❌ | [备份](https://github.com/zzzgydi/clash-verge/releases) | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **Clash for Windows** | 🔴 停更 | ✅ | ✅ | ❌ | ❌ | ❌ |  - | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **ClashX** | 🔴 停更 | ❌ | ✅ | ❌ | ❌ | ❌ | - | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
-| **Clash for Android** | 🔴 停更 | ❌ | ❌ | ✅ | ❌ | ❌ | - | - | [节点](https://yftg1.com/register?code=B3wIZGxR) |
+| **FlClash** | 🟢 活跃 | ✅ | ✅ | ✅ | ❌ | ❌ | [官方](https://github.com/chen08209/FlClash/releases) | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **Clash Verge Rev** | 🟢 活跃 | ✅ | ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **ClashMi** | 🟢 活跃 | ✅ | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/KaringX/clashmi/releases) | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **Hiddify Next** | 🟢 活跃 | ✅ | ✅ | ✅ | ✅ | ❌ | [官方](https://github.com/hiddify/hiddify-app/releases) | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **Mihomo Party** | 🟢 活跃 | ✅ | ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/mihomo-party-org/mihomo-party) | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **Clash Meta for Android** | 🟢 活跃 | ❌ | ❌ | ✅ | ❌ | ❌ | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **Karing** | 🟢 活跃 | ✅ | ❌ | ✅ | ❌ | ❌ | [官方](https://github.com/KaringX/karing/releases) | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **Clash Nyanpasu** | 🟢 活跃 | ✅ | ✅ | ❌ | ❌ | ❌ | [官方](https://github.com/libnyanpasu/clash-nyanpasu/releases) | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **ClashBox（鸿蒙）** | 🟢 活跃 | ❌ | ❌ | ❌ | ❌ | ✅ | [官方](https://github.com/xiaobaigroup/ClashBox/releases) | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **Clash Verge** | 🔴 停更 | ✅ | ✅ | ❌ | ❌ | ❌ | [备份](https://github.com/zzzgydi/clash-verge/releases) | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **Clash for Windows** | 🔴 停更 | ✅ | ✅ | ❌ | ❌ | ❌ |  - | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **ClashX** | 🔴 停更 | ❌ | ✅ | ❌ | ❌ | ❌ | - | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
+| **Clash for Android** | 🔴 停更 | ❌ | ❌ | ✅ | ❌ | ❌ | - | - | [节点](https://ml.yfqz1.net/register?code=B3wIZGxR) |
 
 
 ---
