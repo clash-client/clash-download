@@ -11,7 +11,7 @@
 | 名称 | 特点与亮点 | 注册入口 |
 |-----------|-------------|-----------|
 | **扬帆云** | [🚀  高速稳定 · 多端支持 · 专业团队维护 · 优质隧道专线 · 全平台客户端支持](https://ml.yfqz1.net/register?code=rV0kbz1o) | **[🔥 推荐注册](https://ml.yfqz1.net/register?code=rV0kbz1o)** |
-| **优信云** | [🚀  高速稳定 · 多端支持 · 专业团队维护 · 优质隧道专线 · 全平台客户端支持](https://www.youxin66.net/#/register?code=5dIe3dVr) | **[🔥 推荐注册](https://www.youxin66.net/#/register?code=5dIe3dVr)** |
+| **优信云** | [🚀  高速稳定 · 多端支持 · 专业团队维护 · 优质隧道专线 · 全平台客户端支持](https://youxin618.net/#/register?code=5dIe3dVr) | **[🔥 推荐注册](https://youxin618.net/#/register?code=5dIe3dVr)** |
 | **疾风云** | [🚀  高速稳定 · 多端支持 · 专业团队维护 · 优质隧道专线 · 全平台客户端支持](https://j134.net/?code=yDjD) | **[🔥 推荐注册](https://j134.net/?code=yDjD)** |
 | **尔湾云** | [🚀  高速稳定 · 多端支持 · 专业团队维护 · 优质隧道专线 · 全平台客户端支持](https://ewanwtt.net/auth/register?code=8FbGPP) | **[🔥 推荐注册](https://ewanwtt.net/auth/register?code=8FbGPP)** |
 
